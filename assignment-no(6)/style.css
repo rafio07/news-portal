@@ -1,0 +1,37 @@
+ body,
+ .bg-color-gray {
+     background-color: #F6F6F6;
+ }
+
+ .text-purple {
+     color: #5D5FEF;
+ }
+
+ .color-muted {
+     color: #9CA3AF;
+ }
+
+ .margin-zero {
+     margin-left: 0px !important;
+ }
+
+ .margin-left {
+     margin-left: 30px;
+ }
+
+ .hidden-this {
+     display: none !important;
+ }
+
+ .show-this {
+     display: inline-block;
+ }
+
+ #toast-danger {
+     margin-left: 40%;
+     margin-top: 30px;
+ }
+
+ .top {
+     z-index: 1000;
+ }
